@@ -1,0 +1,298 @@
+[
+    {
+        "id": 1,
+        "bookId": 6,
+        "arabic": "كتاب الطهارة وسننها",
+        "english": "The Book of Purification and its Sunnah",
+        "start":"1",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 2,
+        "bookId": 6,
+        "arabic": "كتاب الصلاة",
+        "english": "The Book of the Prayer",
+        "start":"667",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 3,
+        "bookId": 6,
+        "arabic": "كتاب الأذان والسنة فيها",
+        "english": "The Book of the Adhan and the Sunnah Regarding It",
+        "start":"706",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 4,
+        "bookId": 6,
+        "arabic": "كتاب المساجد والجماعات",
+        "english": "The Book On The Mosques And The Congregations",
+        "start":"735",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 5,
+        "bookId": 6,
+        "arabic": "كتاب إقامة الصلاة والسنة فيها",
+        "english": "Establishing the Prayer and the Sunnah Regarding Them",
+        "start":"803",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 6,
+        "bookId": 6,
+        "arabic": "كتاب الجنائز",
+        "english": "Chapters Regarding Funerals",
+        "start":"1433",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 7,
+        "bookId": 6,
+        "arabic": "كتاب الصيام",
+        "english": "Fasting",
+        "start":"1638",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 8,
+        "bookId": 6,
+        "arabic": "كتاب الزكاة",
+        "english": "The Chapters Regarding Zakat",
+        "start":"1783",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 9,
+        "bookId": 6,
+        "arabic": "كتاب النكاح",
+        "english": "The Chapters on Marriage",
+        "start":"1845",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 10,
+        "bookId": 6,
+        "arabic": "كتاب الطلاق",
+        "english": "The Chapters on Divorce",
+        "start":"2016",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 11,
+        "bookId": 6,
+        "arabic": "كتاب الكفارات",
+        "english": "The Chapters on Expiation",
+        "start":"2090",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 12,
+        "bookId": 6,
+        "arabic": "كتاب التجارات",
+        "english": "The Chapters on Business Transactions",
+        "start":"2137",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 13,
+        "bookId": 6,
+        "arabic": "كتاب الأحكام",
+        "english": "The Chapters on Rulings",
+        "start":"2308",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 14,
+        "bookId": 6,
+        "arabic": "كتاب الهبات",
+        "english": "The Chapters on Gifts",
+        "start":"2375",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 15,
+        "bookId": 6,
+        "arabic": "كتاب الصدقات",
+        "english": "The Chapters on Charity",
+        "start":"2390",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 16,
+        "bookId": 6,
+        "arabic": "كتاب الرهون",
+        "english": "The Chapters on Pawning",
+        "start":"2436",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 17,
+        "bookId": 6,
+        "arabic": "كتاب الشفعة",
+        "english": "The Chapters on Pre-emption",
+        "start":"2492",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 18,
+        "bookId": 6,
+        "arabic": "كتاب اللقطة",
+        "english": "The Chapters on Lost Property",
+        "start":"2502",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 19,
+        "bookId": 6,
+        "arabic": "كتاب العتق",
+        "english": "The Chapters on Manumission (of Slaves)",
+        "start":"2512",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 20,
+        "bookId": 6,
+        "arabic": "كتاب الحدود",
+        "english": "The Chapters on Legal Punishments",
+        "start":"2533",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 21,
+        "bookId": 6,
+        "arabic": "كتاب الديات",
+        "english": "The Chapters on Blood Money",
+        "start":"2615",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 22,
+        "bookId": 6,
+        "arabic": "كتاب الوصايا",
+        "english": "The Chapters on Wills",
+        "start":"2695",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 23,
+        "bookId": 6,
+        "arabic": "كتاب الفرائض",
+        "english": "Chapters on Shares of Inheritance",
+        "start":"2719",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 24,
+        "bookId": 6,
+        "arabic": "كتاب الجهاد",
+        "english": "The Chapters on Jihad",
+        "start":"2753",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 25,
+        "bookId": 6,
+        "arabic": "كتاب المناسك",
+        "english": "Chapters on Hajj Rituals",
+        "start":"2882",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 26,
+        "bookId": 6,
+        "arabic": "كتاب الأضاحي",
+        "english": "Chapters on Sacrifices",
+        "start":"3120",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 27,
+        "bookId": 6,
+        "arabic": "كتاب الذبائح",
+        "english": "Chapters on Slaughtering",
+        "start":"3162",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 28,
+        "bookId": 6,
+        "arabic": "كتاب الصيد",
+        "english": "Chapters on Hunting",
+        "start":"3200",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 29,
+        "bookId": 6,
+        "arabic": "كتاب الأطعمة",
+        "english": "Chapters on Food",
+        "start":"3251",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 30,
+        "bookId": 6,
+        "arabic": "كتاب الأشربة",
+        "english": "Chapters on Drinks",
+        "start":"3371",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 31,
+        "bookId": 6,
+        "arabic": "كتاب الطب",
+        "english": "Chapters on Medicine",
+        "start":"3436",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 32,
+        "bookId": 6,
+        "arabic": "كتاب اللباس",
+        "english": "Chapters on Dress",
+        "start":"3550",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 33,
+        "bookId": 6,
+        "arabic": "كتاب الأدب",
+        "english": "Etiquette",
+        "start":"3657",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 34,
+        "bookId": 6,
+        "arabic": "كتاب الدعاء",
+        "english": "Supplication",
+        "start":"3827",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 35,
+        "bookId": 6,
+        "arabic": "كتاب تعبير الرؤيا",
+        "english": "Interpretation of Dreams",
+        "start":"3893",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 36,
+        "bookId": 6,
+        "arabic": "كتاب الفتن",
+        "english": "Tribulations",
+        "start":"3927",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    },
+    {
+        "id": 37,
+        "bookId": 6,
+        "arabic": "كتاب الزهد",
+        "english": "Zuhd",
+        "start":"4100",
+        "url":"https://raw.githubusercontent.com/abubakrinc/Hadith/refs/heads/main/ibnmajah.json"
+    }
+]
