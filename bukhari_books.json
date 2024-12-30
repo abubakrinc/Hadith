@@ -1,0 +1,778 @@
+[
+    {
+        "id": 1,
+        "bookId": 1,
+        "arabic": "كتاب بدء الوحى",
+        "english": "Revelation",
+        "start":"1",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 2,
+        "bookId": 1,
+        "arabic": "كتاب الإيمان",
+        "english": "Belief",
+        "start":"8",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 3,
+        "bookId": 1,
+        "arabic": "كتاب العلم",
+        "english": "Knowledge",
+        "start":"59",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 4,
+        "bookId": 1,
+        "arabic": "كتاب الوضوء",
+        "english": "Ablutions (Wudu')",
+        "start":"135",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 5,
+        "bookId": 1,
+        "arabic": "كتاب الغسل",
+        "english": "Bathing (Ghusl)",
+        "start":"248",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 6,
+        "bookId": 1,
+        "arabic": "كتاب الحيض",
+        "english": "Menstrual Periods",
+        "start":"293",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 7,
+        "bookId": 1,
+        "arabic": "كتاب التيمم",
+        "english": "Rubbing hands and feet with dust (Tayammum)",
+        "start":"330",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 8,
+        "bookId": 1,
+        "arabic": "كتاب الصلاة",
+        "english": "Prayers (Salat)",
+        "start":"345",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 9,
+        "bookId": 1,
+        "arabic": "كتاب مواقيت الصلاة",
+        "english": "Times of the Prayers",
+        "start":"512",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 10,
+        "bookId": 1,
+        "arabic": "كتاب الأذان",
+        "english": "Call to Prayers (Adhaan)",
+        "start":"589",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 11,
+        "bookId": 1,
+        "arabic": "كتاب الجمعة",
+        "english": "Friday Prayer",
+        "start":"855",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 12,
+        "bookId": 1,
+        "arabic": "كتاب صلاة الخوف",
+        "english": "Fear Prayer",
+        "start":"920",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 13,
+        "bookId": 1,
+        "arabic": "كتاب العيدين",
+        "english": "The Two Festivals (Eids)",
+        "start":"926",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 14,
+        "bookId": 1,
+        "arabic": "كتاب الوتر",
+        "english": "Witr Prayer",
+        "start":"963",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 15,
+        "bookId": 1,
+        "arabic": "كتاب الاستسقاء",
+        "english": "Invoking Allah for Rain (Istisqaa)",
+        "start":"978",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 16,
+        "bookId": 1,
+        "arabic": "كتاب الكسوف",
+        "english": "Eclipses",
+        "start":"1012",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 17,
+        "bookId": 1,
+        "arabic": "كتاب سجود القرآن",
+        "english": "Prostration During Recital of Qur'an",
+        "start":"1036",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 18,
+        "bookId": 1,
+        "arabic": "كتاب التقصير",
+        "english": "Shortening the Prayers (At-Taqseer)",
+        "start":"1049",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 19,
+        "bookId": 1,
+        "arabic": "كتاب التهجد",
+        "english": "Prayer at Night (Tahajjud)",
+        "start":"1088",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 20,
+        "bookId": 1,
+        "arabic": "كتاب فضل الصلاة فى مسجد مكة والمدينة",
+        "english": "Virtues of Prayer at Masjid Makkah and Madinah",
+        "start":"1151",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 21,
+        "bookId": 1,
+        "arabic": "كتاب العمل فى الصلاة",
+        "english": "Actions while Praying",
+        "start":"1160",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 22,
+        "bookId": 1,
+        "arabic": "كتاب السهو",
+        "english": "Forgetfulness in Prayer",
+        "start":"1187",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 23,
+        "bookId": 1,
+        "arabic": "كتاب الجنائز",
+        "english": "Funerals (Al-Janaa'iz)",
+        "start":"1201",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 24,
+        "bookId": 1,
+        "arabic": "كتاب الزكاة",
+        "english": "Obligatory Charity Tax (Zakat)",
+        "start":"1349",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 25,
+        "bookId": 1,
+        "arabic": "كتاب الحج",
+        "english": "Hajj (Pilgrimage)",
+        "start":"1461",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 26,
+        "bookId": 1,
+        "arabic": "كتاب العمرة",
+        "english": "`Umrah (Minor pilgrimage)",
+        "start":"1708",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 27,
+        "bookId": 1,
+        "arabic": "كتاب المحصر",
+        "english": "Pilgrims Prevented from Completing the Pilgrimage",
+        "start":"1738",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 28,
+        "bookId": 1,
+        "arabic": "كتاب جزاء الصيد",
+        "english": "Penalty of Hunting while on Pilgrimage",
+        "start":"1753",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 29,
+        "bookId": 1,
+        "arabic": "كتاب فضائل المدينة",
+        "english": "Virtues of Madinah",
+        "start":"1799",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 30,
+        "bookId": 1,
+        "arabic": "كتاب الصوم",
+        "english": "Fasting",
+        "start":"1823",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 31,
+        "bookId": 1,
+        "arabic": "كتاب صلاة التراويح",
+        "english": "Praying at Night in Ramadaan (Taraweeh)",
+        "start":"1935",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 32,
+        "bookId": 1,
+        "arabic": "كتاب فضل ليلة القدر",
+        "english": "Virtues of the Night of Qadr",
+        "start":"1941",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 33,
+        "bookId": 1,
+        "arabic": "كتاب الاعتكاف",
+        "english": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+        "start":"1952",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 34,
+        "bookId": 1,
+        "arabic": "كتاب البيوع",
+        "english": "Sales and Trade",
+        "start":"1973",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 35,
+        "bookId": 1,
+        "arabic": "كتاب السلم",
+        "english": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+        "start":"2157",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 36,
+        "bookId": 1,
+        "arabic": "كتاب الشفعة",
+        "english": "Shuf'a",
+        "start":"2173",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 37,
+        "bookId": 1,
+        "arabic": "كتاب الإجارة",
+        "english": "Hiring",
+        "start":"2176",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 38,
+        "bookId": 1,
+        "arabic": "كتاب الحوالات",
+        "english": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+        "start":"2201",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 39,
+        "bookId": 1,
+        "arabic": "كتاب الكفالة",
+        "english": "Kafalah",
+        "start":"2204",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 40,
+        "bookId": 1,
+        "arabic": "كتاب الوكالة",
+        "english": "Representation, Authorization, Business by Proxy",
+        "start":"2213",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 41,
+        "bookId": 1,
+        "arabic": "كتاب المزارعة",
+        "english": "Agriculture",
+        "start":"2231",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 42,
+        "bookId": 1,
+        "arabic": "كتاب المساقاة",
+        "english": "Distribution of Water",
+        "start":"2259",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 43,
+        "bookId": 1,
+        "arabic": "كتاب فى الاستقراض",
+        "english": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+        "start":"2290",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 44,
+        "bookId": 1,
+        "arabic": "كتاب الخصومات",
+        "english": "Khusoomaat",
+        "start":"2314",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 45,
+        "bookId": 1,
+        "arabic": "كتاب فى اللقطة",
+        "english": "Lost Things Picked up by Someone (Luqatah)",
+        "start":"2329",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 46,
+        "bookId": 1,
+        "arabic": "كتاب المظالم",
+        "english": "Oppressions",
+        "start":"2344",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 47,
+        "bookId": 1,
+        "arabic": "كتاب الشركة",
+        "english": "Partnership",
+        "start":"2387",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 48,
+        "bookId": 1,
+        "arabic": "كتاب الرهن",
+        "english": "Mortgaging",
+        "start":"2409",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 49,
+        "bookId": 1,
+        "arabic": "كتاب العتق",
+        "english": "Manumission of Slaves",
+        "start":"2417",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 50,
+        "bookId": 1,
+        "arabic": "كتاب المكاتب",
+        "english": "Makaatib",
+        "start":"2458",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 51,
+        "bookId": 1,
+        "arabic": "كتاب الهبة وفضلها والتحريض عليها",
+        "english": "Gifts",
+        "start":"2464",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 52,
+        "bookId": 1,
+        "arabic": "كتاب الشهادات",
+        "english": "Witnesses",
+        "start":"2532",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 53,
+        "bookId": 1,
+        "arabic": "كتاب الصلح",
+        "english": "Peacemaking",
+        "start":"2582",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 54,
+        "bookId": 1,
+        "arabic": "كتاب الشروط",
+        "english": "Conditions",
+        "start":"2602",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 55,
+        "bookId": 1,
+        "arabic": "كتاب الوصايا",
+        "english": "Wills and Testaments (Wasaayaa)",
+        "start":"2626",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 56,
+        "bookId": 1,
+        "arabic": "كتاب الجهاد والسير",
+        "english": "Fighting for the Cause of Allah (Jihaad)",
+        "start":"2670",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 57,
+        "bookId": 1,
+        "arabic": "كتاب فرض الخمس",
+        "english": "One-fifth of Booty to the Cause of Allah (Khumus)",
+        "start":"2964",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 58,
+        "bookId": 1,
+        "arabic": "كتاب الجزية والموادعة",
+        "english": "Jizyah and Mawaada'ah",
+        "start":"3024",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 59,
+        "bookId": 1,
+        "arabic": "كتاب بدء الخلق",
+        "english": "Beginning of Creation",
+        "start":"3057",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 60,
+        "bookId": 1,
+        "arabic": "كتاب أحاديث الأنبياء",
+        "english": "Prophets",
+        "start":"3188",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 61,
+        "bookId": 1,
+        "arabic": "كتاب المناقب",
+        "english": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+        "start":"3324",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 62,
+        "bookId": 1,
+        "arabic": "كتاب فضائل أصحاب النبى صلى الله عليه وسلم",
+        "english": "Companions of the Prophet",
+        "start":"3493",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 63,
+        "bookId": 1,
+        "arabic": "كتاب مناقب الأنصار",
+        "english": "Merits of the Helpers in Madinah (Ansaar)",
+        "start":"3613",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 64,
+        "bookId": 1,
+        "arabic": "كتاب المغازى",
+        "english": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+        "start":"3785",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 65,
+        "bookId": 1,
+        "arabic": "كتاب التفسير",
+        "english": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+        "start":"4273",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 66,
+        "bookId": 1,
+        "arabic": "كتاب فضائل القرآن",
+        "english": "Virtues of the Qur'an",
+        "start":"4772",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 67,
+        "bookId": 1,
+        "arabic": "كتاب النكاح",
+        "english": "Wedlock, Marriage (Nikaah)",
+        "start":"4859",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 68,
+        "bookId": 1,
+        "arabic": "كتاب الطلاق",
+        "english": "Divorce",
+        "start":"5042",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 69,
+        "bookId": 1,
+        "arabic": "كتاب النفقات",
+        "english": "Supporting the Family",
+        "start":"5137",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 70,
+        "bookId": 1,
+        "arabic": "كتاب الأطعمة",
+        "english": "Food, Meals",
+        "start":"5159",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 71,
+        "bookId": 1,
+        "arabic": "كتاب العقيقة",
+        "english": "Sacrifice on Occasion of Birth (`Aqiqa)",
+        "start":"5254",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 72,
+        "bookId": 1,
+        "arabic": "كتاب الذبائح والصيد",
+        "english": "Hunting, Slaughtering",
+        "start":"5263",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 73,
+        "bookId": 1,
+        "arabic": "كتاب الأضاحي",
+        "english": "Al-Adha Festival Sacrifice (Adaahi)",
+        "start":"5332",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 74,
+        "bookId": 1,
+        "arabic": "كتاب الأشربة",
+        "english": "Drinks",
+        "start":"5362",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 75,
+        "bookId": 1,
+        "arabic": "كتاب المرضى",
+        "english": "Patients",
+        "start":"5427",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 76,
+        "bookId": 1,
+        "arabic": "كتاب الطب",
+        "english": "Medicine",
+        "start":"5464",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 77,
+        "bookId": 1,
+        "arabic": "كتاب اللباس",
+        "english": "Dress",
+        "start":"5557",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 78,
+        "bookId": 1,
+        "arabic": "كتاب الأدب",
+        "english": "Good Manners and Form (Al-Adab)",
+        "start":"5742",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 79,
+        "bookId": 1,
+        "arabic": "كتاب الاستئذان",
+        "english": "Asking Permission",
+        "start":"5992",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 80,
+        "bookId": 1,
+        "arabic": "كتاب الدعوات",
+        "english": "Invocations",
+        "start":"6067",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 81,
+        "bookId": 1,
+        "arabic": "كتاب الرقاق",
+        "english": "To make the Heart Tender (Ar-Riqaq)",
+        "start":"6173",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 82,
+        "bookId": 1,
+        "arabic": "كتاب القدر",
+        "english": "Divine Will (Al-Qadar)",
+        "start":"6354",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 83,
+        "bookId": 1,
+        "arabic": "كتاب الأيمان والنذور",
+        "english": "Oaths and Vows",
+        "start":"6380",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 84,
+        "bookId": 1,
+        "arabic": "كتاب كفارات الأيمان",
+        "english": "Expiation for Unfulfilled Oaths",
+        "start":"6464",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 85,
+        "bookId": 1,
+        "arabic": "كتاب الفرائض",
+        "english": "Laws of Inheritance (Al-Faraa'id)",
+        "start":"6479",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 86,
+        "bookId": 1,
+        "arabic": "كتاب الحدود",
+        "english": "Limits and Punishments set by Allah (Hudood)",
+        "start":"6526",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 87,
+        "bookId": 1,
+        "arabic": "كتاب الديات",
+        "english": "Blood Money (Ad-Diyat)",
+        "start":"6607",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 88,
+        "bookId": 1,
+        "arabic": "كتاب استتابة المرتدين والمعاندين وقتالهم",
+        "english": "Apostates",
+        "start":"6662",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 89,
+        "bookId": 1,
+        "arabic": "كتاب الإكراه",
+        "english": "(Statements made under) Coercion",
+        "start":"6683",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 90,
+        "bookId": 1,
+        "arabic": "كتاب الحيل",
+        "english": "Tricks",
+        "start":"6696",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 91,
+        "bookId": 1,
+        "arabic": "كتاب التعبير",
+        "english": "Interpretation of Dreams",
+        "start":"6724",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 92,
+        "bookId": 1,
+        "arabic": "كتاب الفتن",
+        "english": "Afflictions and the End of the World",
+        "start":"6785",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 93,
+        "bookId": 1,
+        "arabic": "كتاب الأحكام",
+        "english": "Judgments (Ahkaam)",
+        "start":"6868",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 94,
+        "bookId": 1,
+        "arabic": "كتاب التمنى",
+        "english": "Wishes",
+        "start":"6952",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 95,
+        "bookId": 1,
+        "arabic": "كتاب أخبار الآحاد",
+        "english": "Accepting Information Given by a Truthful Person",
+        "start":"6972",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 96,
+        "bookId": 1,
+        "arabic": "كتاب الاعتصام بالكتاب والسنة",
+        "english": "Holding Fast to the Qur'an and Sunnah",
+        "start":"6993",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    },
+    {
+        "id": 97,
+        "bookId": 1,
+        "arabic": "كتاب التوحيد",
+        "english": "Oneness, Uniqueness of Allah (Tawheed)",
+        "start":"7090",
+        "url":"https://github.com/abubakrinc/Hadith/raw/refs/heads/main/bukhari.json"
+    }
+]
